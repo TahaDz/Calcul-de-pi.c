@@ -1,4 +1,4 @@
-# Calculion of pi
+# Calculation of pi
 This program calculates the value of pi using openMp.
 
 ### how to compile the program (under linux)
